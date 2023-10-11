@@ -14,6 +14,7 @@
 		2754452C2ABA7ADC00054BFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2754452B2ABA7ADC00054BFD /* Assets.xcassets */; };
 		2754452F2ABA7ADC00054BFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2754452D2ABA7ADC00054BFD /* LaunchScreen.storyboard */; };
 		477CAEF42AD6981A00470F0F /* AnchorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477CAEF32AD6981A00470F0F /* AnchorViewController.swift */; };
+		477CAEF62AD69AD200470F0F /* ConstraintViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477CAEF52AD69AD200470F0F /* ConstraintViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2754452E2ABA7ADC00054BFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		275445302ABA7ADC00054BFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		477CAEF32AD6981A00470F0F /* AnchorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnchorViewController.swift; sourceTree = "<group>"; };
+		477CAEF52AD69AD200470F0F /* ConstraintViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstraintViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,11 +63,12 @@
 				275445222ABA7ADC00054BFD /* AppDelegate.swift */,
 				275445242ABA7ADC00054BFD /* SceneDelegate.swift */,
 				275445262ABA7ADC00054BFD /* ViewController.swift */,
+				477CAEF32AD6981A00470F0F /* AnchorViewController.swift */,
+				477CAEF52AD69AD200470F0F /* ConstraintViewController.swift */,
 				275445282ABA7ADC00054BFD /* Main.storyboard */,
 				2754452B2ABA7ADC00054BFD /* Assets.xcassets */,
 				2754452D2ABA7ADC00054BFD /* LaunchScreen.storyboard */,
 				275445302ABA7ADC00054BFD /* Info.plist */,
-				477CAEF32AD6981A00470F0F /* AnchorViewController.swift */,
 			);
 			path = Challenge3;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				275445272ABA7ADC00054BFD /* ViewController.swift in Sources */,
 				275445232ABA7ADC00054BFD /* AppDelegate.swift in Sources */,
 				275445252ABA7ADC00054BFD /* SceneDelegate.swift in Sources */,
+				477CAEF62AD69AD200470F0F /* ConstraintViewController.swift in Sources */,
 				477CAEF42AD6981A00470F0F /* AnchorViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
